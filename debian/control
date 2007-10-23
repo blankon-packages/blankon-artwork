@@ -1,0 +1,13 @@
+Source: blankon-artwork
+Section: gnome
+Priority: optional
+Maintainer: BlankOn Developers <BlankOn@googlegroups.com>
+Build-Depends: debhelper (>= 5), cdbs
+Standards-Version: 3.7.2
+
+Package: blankon-artwork
+Architecture: all
+Depends: docang-theme, konde-gdm-themes, konde-wallpapers
+Description: BlankOn themes and artwork
+ This package contains merely the Distributor Logo and pulls in all the 
+ other components via Depends.
