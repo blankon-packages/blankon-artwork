@@ -7,7 +7,7 @@ Standards-Version: 3.7.2
 
 Package: blankon-artwork
 Architecture: all
-Depends: docang-theme, konde-gdm-themes, konde-wallpapers
+Depends: docang-theme, konde-gdm-theme, konde-wallpapers, konde-session-splashes
 Description: BlankOn themes and artwork
  This package contains merely the Distributor Logo and pulls in all the 
  other components via Depends.
