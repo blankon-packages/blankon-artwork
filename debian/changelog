@@ -1,3 +1,11 @@
+blankon-artwork (0.1-3) konde; urgency=low
+
+  * debian/control:
+      Added Depends: jenggo-theme, blankon-extra-backgrounds
+  * debian/gconf-defaults: cursor_theme to DMZ-White
+
+ -- Andy Apdhani <imtheface@ubuntu.com>  Mon, 29 Oct 2007 02:57:42 +0700
+
 blankon-artwork (0.1-2) konde; urgency=low
 
   * debian/control:
