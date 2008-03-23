@@ -1,3 +1,9 @@
+blankon-artwork (0.1-5) lontara; urgency=low
+
+  * import ke lontara
+
+ -- Muhammad Takdir <muhammad.takdir@gmail.com>  Sun, 23 Mar 2008 22:40:44 +0800
+
 blankon-artwork (0.1-4) konde; urgency=low
 
   * debian/control: Added Conflicts and Replaces to ubuntu-artwork
