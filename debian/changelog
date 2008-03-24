@@ -1,3 +1,9 @@
+blankon-artwork (0.1-6) lontara; urgency=low
+
+  * debian/control : mengubah semua kata konde menjadi lontara
+
+ -- Muhammad Takdir <muhammad.takdir@gmail.com>  Mon, 24 Mar 2008 21:38:16 +0800
+
 blankon-artwork (0.1-5) lontara; urgency=low
 
   * import ke lontara
