@@ -1,3 +1,9 @@
+blankon-artwork (0.3-2) meuligoe; urgency=low
+
+  * debian/control: fixed typo dependency on meuligoe-gdm-themes
+
+ -- Andy Apdhani <imtheface@ubuntu.com>  Sun, 24 Aug 2008 17:20:55 +0700
+
 blankon-artwork (0.3-1) meuligoe; urgency=low
 
   * debian/control: update to meuligoe artwork and themes.
