@@ -1,3 +1,9 @@
+blankon-artwork (0.3-4) meuligoe; urgency=low
+
+  * debian/gconf-default: Fix typo rae not Rae
+
+ -- Andy Apdhani <imtheface@ubuntu.com>  Sun, 21 Sep 2008 22:17:11 +0700
+
 blankon-artwork (0.3-3) meuligoe; urgency=low
 
   * debian/gconf-default:
