@@ -1,27 +1,28 @@
 blankon-artwork (0.3-5) meuligoe; urgency=low
 
-  * debian/gconf-defaults : setting config blankon-sounds untuk meng-override
-    settingan ubuntu-sounds yang ada di libgnome2-common.
+  * debian/gconf-defaults : 
+    setting config blankon-sounds untuk meng-override settingan ubuntu-sounds
+    yang ada di libgnome2-common.
 
  -- Andy Apdhani <imtheface@ubuntu.com>  Sun, 12 Oct 2008 09:20:50 +0700
 
 blankon-artwork (0.3-4) meuligoe; urgency=low
 
-  * debian/gconf-default: Fix typo rae not Rae
+  * debian/gconf-default: Fix typo rae not Rae.
 
  -- Andy Apdhani <imtheface@ubuntu.com>  Sun, 21 Sep 2008 22:17:11 +0700
 
 blankon-artwork (0.3-3) meuligoe; urgency=low
 
   * debian/gconf-default:
-     - Icon: Docang to Rae
-     - Cursor: DMZ-white to whiteglass
+     - Icon: Docang to Rae.
+     - Cursor: DMZ-white to whiteglass.
 
  -- Andy Apdhani <imtheface@ubuntu.com>  Sun, 14 Sep 2008 17:01:53 +0700
 
 blankon-artwork (0.3-2) meuligoe; urgency=low
 
-  * debian/control: fixed typo dependency on meuligoe-gdm-themes
+  * debian/control: fixed typo dependency on meuligoe-gdm-themes.
 
  -- Andy Apdhani <imtheface@ubuntu.com>  Sun, 24 Aug 2008 17:20:55 +0700
 
