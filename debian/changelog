@@ -1,3 +1,10 @@
+blankon-artwork (0.3-5) meuligoe; urgency=low
+
+  * debian/gconf-defaults : setting config blankon-sounds untuk meng-override
+    settingan ubuntu-sounds yang ada di libgnome-common. 
+
+ -- Andy Apdhani <imtheface@ubuntu.com>  Sun, 12 Oct 2008 09:20:50 +0700
+
 blankon-artwork (0.3-4) meuligoe; urgency=low
 
   * debian/gconf-default: Fix typo rae not Rae
