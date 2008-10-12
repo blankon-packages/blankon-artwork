@@ -1,7 +1,7 @@
 blankon-artwork (0.3-5) meuligoe; urgency=low
 
   * debian/gconf-defaults : setting config blankon-sounds untuk meng-override
-    settingan ubuntu-sounds yang ada di libgnome-common. 
+    settingan ubuntu-sounds yang ada di libgnome2-common.
 
  -- Andy Apdhani <imtheface@ubuntu.com>  Sun, 12 Oct 2008 09:20:50 +0700
 
