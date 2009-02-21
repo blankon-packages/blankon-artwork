@@ -1,13 +1,13 @@
 Source: blankon-artwork
 Section: gnome
 Priority: optional
-Maintainer: BlankOn Developers <BlankOn@googlegroups.com>
+Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
 Build-Depends: debhelper (>= 5), cdbs
 Standards-Version: 3.7.2
 
 Package: blankon-artwork
 Architecture: all
-Depends: jao-theme, meuligoe-gdm-themes, meuligoe-wallpapers, meuligoe-session-splashes, jenggo-theme, blankon-extra-backgrounds
+Depends: jao-theme, nanggar-gdm-themes, meuligoe-wallpapers, meuligoe-session-splashes, jenggo-theme, blankon-extra-backgrounds
 Conflicts: ubuntu-artwork
 Replaces: ubuntu-artwork
 Description: BlankOn themes and artwork

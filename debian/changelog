@@ -1,3 +1,12 @@
+blankon-artwork (0.3-6) nanggar; urgency=low
+
+  * debian/control :
+    Update to nanggar-gdm-theme
+    Maintainer to BlankOn-dev@googlegroups.com
+  * Update distributor-logo.png to new BlankOn logo
+
+ -- Akhmat Safrudin <akhmat.safrudin@gmail.com>  Sun, 22 Feb 2009 01:07:51 +0700
+
 blankon-artwork (0.3-5) meuligoe; urgency=low
 
   * debian/gconf-defaults : 
