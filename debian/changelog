@@ -1,3 +1,9 @@
+blankon-artwork (5.0-1) nanggar; urgency=low
+
+  * Set default theme to Bakso and default icon to Londe.
+
+ -- Andy Apdhani <imtheface@ubuntu.com>  Fri, 01 May 2009 18:20:12 +0700
+
 blankon-artwork (5.0) nanggar; urgency=low
 
   * debian/control:

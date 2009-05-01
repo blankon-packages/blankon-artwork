@@ -7,7 +7,7 @@ Standards-Version: 3.7.2
 
 Package: blankon-artwork
 Architecture: all
-Depends: jao-theme, nanggar-gdm-theme, meuligoe-wallpapers, meuligoe-session-splashes, blankon-extra-backgrounds
+Depends: bakso-theme, nanggar-gdm-theme, meuligoe-wallpapers, meuligoe-session-splashes, blankon-extra-backgrounds
 Conflicts: ubuntu-artwork
 Replaces: ubuntu-artwork
 Description: BlankOn themes and artwork
