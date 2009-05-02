@@ -1,3 +1,9 @@
+blankon-artwork (5.0-2) nanggar; urgency=low
+
+  * Set picture-option to stretched and font-name to Sans 9
+
+ -- Akhmat Safrudin <akhmat.safrudin@gmail.com>  Sat, 02 May 2009 21:49:42 +0700
+
 blankon-artwork (5.0-1) nanggar; urgency=low
 
   * Set default theme to Bakso and default icon to Londe.
