@@ -1,3 +1,9 @@
+blankon-artwork (5.0-4) nanggar; urgency=low
+
+  * Revert icon theme name to Londe again.
+
+ -- Andy Apdhani <imtheface@ubuntu.com>  Sun, 03 May 2009 21:53:59 +0700
+
 blankon-artwork (5.0-3) nanggar; urgency=low
 
   * Typo s/Londe/londe
