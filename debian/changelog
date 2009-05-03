@@ -1,3 +1,10 @@
+blankon-artwork (5.0-3) nanggar; urgency=low
+
+  * Typo s/Londe/londe
+  * Set Top Panel and Bottom panel size to 21
+
+ -- Akhmat Safrudin <akhmat.safrudin@gmail.com>  Sun, 03 May 2009 17:04:05 +0700
+
 blankon-artwork (5.0-2) nanggar; urgency=low
 
   * Set picture-option to stretched and font-name to Sans 9
