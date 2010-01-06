@@ -1,3 +1,9 @@
+blankon-artwork (6.0) ombilin; urgency=low
+
+  * Releasing blankon-artwork for ombilin
+
+ -- Akhmat Safrudin <somat@blankonlinux.or.id>  Wed, 06 Jan 2010 23:19:51 +0000
+
 blankon-artwork (5.0-4) nanggar; urgency=low
 
   * Revert icon theme name to Londe again.
