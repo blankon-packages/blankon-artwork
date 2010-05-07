@@ -1,3 +1,9 @@
+blankon-artwork (6.0-1) ombilin; urgency=low
+
+  * change depends to bubur-theme
+ 
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 07 May 2010 13:06:45 +0700
+
 blankon-artwork (6.0) ombilin; urgency=low
 
   * Releasing blankon-artwork for ombilin
