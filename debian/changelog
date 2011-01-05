@@ -1,3 +1,9 @@
+blankon-artwork (6.0-2) pattimura; urgency=low
+
+  * change deppend for bubur-theme to ombilin-theme
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 05 Jan 2011 22:20:19 +0700
+
 blankon-artwork (6.0-1) ombilin; urgency=low
 
   * change depends to bubur-theme
