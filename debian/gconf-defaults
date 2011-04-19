@@ -1,8 +1,8 @@
 /apps/gnome-session/options/splash_image splash/blankon-splash.png
-/desktop/gnome/interface/gtk_theme      Bakso
-/desktop/gnome/interface/icon_theme     Londe
+/desktop/gnome/interface/gtk_theme      Ombilin
+/desktop/gnome/interface/icon_theme     BlankOn
 /desktop/gnome/peripherals/mouse/cursor_theme   whiteglass
-/apps/metacity/general/theme	Bakso
+/apps/metacity/general/theme	Ombilin
 /desktop/gnome/sound/theme_name	blankon
 /desktop/gnome/background/picture_options   stretched
 /desktop/gnome/interface/font_name  Sans 9

@@ -1,3 +1,8 @@
+blankon-artwork (6.0-3) pattimura; urgency=low
+
+  * change gconf-defaults Bakso to Ombilin  Londe to BlankOn 
+ -- simon liling <simonliling28@gmail.com>  Tue, 19 Apr 2011 19:54:13 +0800
+
 blankon-artwork (6.0-2) pattimura; urgency=low
 
   * change deppend for bubur-theme to ombilin-theme
