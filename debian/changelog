@@ -1,3 +1,9 @@
+blankon-artwork (8.0-1) rote; urgency=low
+
+  * rebuild for rote debian.
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 05 Nov 2011 16:44:06 +0700
+
 blankon-artwork (6.0-3) pattimura; urgency=low
 
   * change gconf-defaults Bakso to Ombilin  Londe to BlankOn 
