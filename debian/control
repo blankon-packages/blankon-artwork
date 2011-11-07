@@ -7,9 +7,6 @@ Standards-Version: 3.7.2
 
 Package: blankon-artwork
 Architecture: all
-Depends: ombilin-theme
-Conflicts: ubuntu-artwork
-Replaces: ubuntu-artwork
 Description: BlankOn themes and artwork
  This package contains merely the Distributor Logo and pulls in all the 
  other components via Depends.

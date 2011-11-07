@@ -1,3 +1,9 @@
+blankon-artwork (8.0-2) rote; urgency=low
+
+  * Remove depends 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 07 Nov 2011 17:05:06 +0700
+
 blankon-artwork (8.0-1) rote; urgency=low
 
   * rebuild for rote debian.
