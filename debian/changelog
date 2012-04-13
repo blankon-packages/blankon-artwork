@@ -1,3 +1,12 @@
+blankon-artwork (8.0-3.1) rote; urgency=low
+
+  * changes debian/gconf-defaults
+    - Krawu theme
+    - Komodo icon
+    - adding blankon-screensaver
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 13 Apr 2012 22:01:47 +0700
+
 blankon-artwork (8.0-3) rote; urgency=low
 
   * Update distributor-logo

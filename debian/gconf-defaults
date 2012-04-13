@@ -1,8 +1,9 @@
 /apps/gnome-session/options/splash_image splash/blankon-splash.png
-/desktop/gnome/interface/gtk_theme      Ombilin
-/desktop/gnome/interface/icon_theme     BlankOn
+/desktop/gnome/interface/gtk_theme      Krawu
+/desktop/gnome/interface/icon_theme     Komodo-Coklat
 /desktop/gnome/peripherals/mouse/cursor_theme   whiteglass
-/apps/metacity/general/theme	Ombilin
+/apps/metacity/general/theme	Krawu
+/apps/gnome-screensaver/theme blankon-screensaver
 /desktop/gnome/sound/theme_name	blankon
 /desktop/gnome/background/picture_options   stretched
 /desktop/gnome/interface/font_name  Sans 9
