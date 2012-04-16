@@ -5,5 +5,5 @@ binary-install/blankon-artwork::
 	dh_icons
 
 binary-fixup/blankon-artwork::
-	dh_gconf --priority=16
+	dh_gconf
 
